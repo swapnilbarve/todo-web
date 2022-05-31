@@ -226,16 +226,3 @@ button{
     0% { transform: scaleY(0); };
     100% { transform: scaleY(1) };
 }
-
-
-
-
-
-/* #pushpendra{
-    position: relative;
-    top: 2px;
-    margin-left: 80vw;
-    color:maroon;
-    font-size: 18px;
-    font-weight: 800;
-} */
